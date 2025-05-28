@@ -67,7 +67,3 @@ src/
 ## 🧑‍💻 Autor
 
 Desenvolvido por [@JovaniOUnico](https://github.com/JovaniOUnico) como projeto final do Bloco 2 na Generation Brasil.
-
----
-
-Se quiser, posso adaptar o README com base no conteúdo real do código. Para isso, você pode me enviar os arquivos `pom.xml` e a estrutura das pastas `src/`. Deseja fazer isso?
